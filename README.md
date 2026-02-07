@@ -1,2 +1,3 @@
 # learning-demo
-This is first repo
+This is first repo.
+Author- Nitesh Kumar
